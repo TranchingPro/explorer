@@ -1,6 +1,6 @@
-# zkAmoeba Micro Block Explorer App
+# Tranching Block Explorer App
 ## Overview
-`zkAmoeba Micro Block Explorer App` is a front-end app providing an easy-to-use interface for users to view and inspect transactions, blocks, contracts and more on [zkAmoeba Micro](https://www.zkamoeba.com/) blockchain.
+`Tranching Block Explorer App` is a front-end app providing an easy-to-use interface for users to view and inspect transactions, blocks, contracts and more on [Tranching](https://www.tidalchain.com/) blockchain.
 
 ## Recommended IDE Setup
 
