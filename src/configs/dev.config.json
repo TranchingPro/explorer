@@ -1,0 +1,41 @@
+{
+  "networks": [
+    {
+      "apiUrl": "http://47.254.94.231:3020",
+      "verificationApiUrl": "https://rpc.testnet.zkamoeba.com/api",
+      "bridgeUrl": "https://testnet.zkamoeba.com/en/bridge/",
+      "hostnames": [
+        "https://testnetexplorer.zkamoeba.com"
+      ],
+      "icon": "/images/icons/zkAmoeba-arrows.svg",
+      "l1ExplorerUrl": "https://calibration.filfox.info/en",
+      "l2ChainId": 380,
+      "l2NetworkName": "zkAmoeba Micro Testnet",
+      "l2WalletUrl": "https://testnetexplorer.zkamoeba.com",
+      "maintenance": false,
+      "name": "testnet",
+      "newProverUrl": "",
+      "published": true,
+      "rpcUrl": "/api"
+    },
+    {
+      "apiUrl": "http://47.254.94.231:3020",
+      "verificationApiUrl": "https://rpc.mainnet.zkamoeba.com/api",
+      "bridgeUrl": "https://www.zkamoeba.com/en/bridge/",
+      "hostnames": [
+        "https://explorer.zkamoeba.com"
+      ],
+      "icon": "/images/icons/zkAmoeba-arrows.svg",
+      "l1ExplorerUrl": "https://filfox.info/en",
+      "l2ChainId": 381,
+      "l2NetworkName": "zkAmoeba Micro Mainnet",
+      "l2WalletUrl": "https://explorer.zkamoeba.com",
+      "maintenance": false,
+      "name": "mainnet",
+      "newProverUrl": "",
+      "published": true,
+      "rpcUrl": "https://rpc.mainnet.zkamoeba.com/rpc/"
+    }
+  
+  ]
+}
