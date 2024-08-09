@@ -3,3 +3,5 @@ src/*
 !src/assets/
 !src/configs
 !src/composables
+!src/plugins
+!src/router
